@@ -20,9 +20,10 @@
 
 #### Task description
 
-This project gives you the required apis for getting tree data,  deleting tree task, subtask. It also gives real time updates whenever any delete api is called even from postman.
+This project gives you the required apis for getting tree data,  deleting tree task, subtask. It also gives real time updates whenever any delete api is called even from postman. You will get all the details in the postman collection inside this repo. 
 
-You will get all the details in the postman collection inside this repo.
+The client application using this api server can be found at: 
+<a href="https://github.com/ganeshmkharvi/angular-tree-grid-portal">Angular tree grid portal</a>
 
 ### Built With
 
