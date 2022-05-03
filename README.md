@@ -1,9 +1,9 @@
  <p align="center">
   <h3 align="center">Backend for Angular Syncfusion tree grid</h3>
   <p align="center">
-    <a href="https://github.com/ganeshmkharvi/node-express-crypto-live-prices/issues">Report Bug </a>
+    <a href="https://github.com/ganeshmkharvi/node-express-tree-grid-api-server/issues">Report Bug </a>
     ·
-    <a href="https://github.com/ganeshmkharvi/node-express-crypto-live-prices/issues">Request Feature</a>
+    <a href="https://github.com/ganeshmkharvi/node-express-tree-grid-api-server/issues">Request Feature</a>
   </p>
 </p>
 
@@ -70,7 +70,7 @@ To run this project, you'll need to have the following installed:
 
 1. Clone the repo :
    ```sh
-   git clone https://github.com/ganeshmkharvi/node-express-crypto-live-prices.git
+   git clone https://github.com/ganeshmkharvi/node-express-tree-grid-api-server.git
    ```
 2. Install dependencies (use `sudo` if required) :
 
