@@ -1,0 +1,10 @@
+export const statusCode200 = 200;
+export const statusCode201 = 201;
+export const statusCode400 = 400;
+export const statusCode401 = 401;
+export const statusCode403 = 403;
+export const statusCode500 = 500;
+export const taskNotFound = 'Task not found.';
+export const taskDeleted = 'Task deleted successfully.';
+export const subTaskNotFound = 'Sub Task not found.';
+export const subTaskDeleted = 'Sub Task deleted successfully.';
