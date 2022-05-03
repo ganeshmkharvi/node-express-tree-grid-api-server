@@ -1,6 +1,5 @@
-# node-express-tree-grid-api-server
  <p align="center">
-  <h3 align="center">Real time Mock crypto prices</h3>
+  <h3 align="center">Backend for Angular Syncfusion tree grid</h3>
   <p align="center">
     <a href="https://github.com/ganeshmkharvi/node-express-crypto-live-prices/issues">Report Bug </a>
     ·
