@@ -5,13 +5,6 @@ import { initSocket } from '../../server/server';
 
 let result: any;
 
-// interface Post {
-//     userId: Number;
-//     id: Number;
-//     title: String;
-//     body: String;
-// }
-
 // getting all tree records
 async function getAllTreeRecords(req: Request, res: Response) {
     result = service.fetchAllTreeRecords();
